@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Font Awesome 6 Free Solid.otf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Font Awesome 6 Free Solid.otf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome6.Fonts" Version="2.5.1" />
+  </ItemGroup>
+
+</Project>
