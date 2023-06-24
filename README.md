@@ -16,7 +16,7 @@ SurfShield is a desktop application developed using WPF (Windows Presentation Fo
 ![image](https://github.com/MaximSaveliev/SurfShield/assets/60519187/45511cbb-c9d0-46e8-954b-f859c3fb6b67)
 ## Proxy UI for choosing a right country Proxy
 ![image](https://github.com/MaximSaveliev/SurfShield/assets/60519187/c74d9b87-4fd7-4f42-90a2-e701c8865ed8)
-## How to connect to the VPN
+## How to connect to a VPN ?
 <ul>
   <li>Select the desired country for your connection.</li>
   <li>Click the "Connect" button.</li>
