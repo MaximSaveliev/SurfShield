@@ -26,6 +26,6 @@ SurfShield is a desktop application developed using WPF (Windows Presentation Fo
 
 ![image](https://github.com/MaximSaveliev/SurfShield/assets/60519187/f5045ba5-5aeb-4e0d-88f4-7d80d2f13b52)
 
-## Wanna check if all works right?
+## Wanna check if all works right ?
 ![image](https://github.com/MaximSaveliev/SurfShield/assets/60519187/4f0bd3f9-fa35-4606-9674-4c26869af24d)
 
